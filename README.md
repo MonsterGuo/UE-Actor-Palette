@@ -1,6 +1,6 @@
 ### 这是一个在查看官方插件并且学习过程，改写的插件。
 
-修复内容：
+修复内容：  
 
 1.打开一个场景默认拥有多个平行光  
 
@@ -17,3 +17,16 @@
 8.不会显示“Billiboard Sprites”,选择上的不方便  
 
 9.勾选“RealTime"并不会真的实时  
+
+### 插件截图
+图标：  
+![image](https://github.com/MonsterGuo/UE-Actor-Palette/assets/39860733/5885d324-ec37-47fa-94eb-b43ded4e3e07)
+
+概览：  
+![image](https://github.com/MonsterGuo/UE-Actor-Palette/assets/39860733/82efee53-2d69-4979-88b7-ba8665d7e6d8)
+
+![image](https://github.com/MonsterGuo/UE-Actor-Palette/assets/39860733/3840d255-6eb3-4404-8070-183315c661e8)
+
+
+
+
